@@ -1,1 +1,1 @@
-$a=1;$b=1;$a+$b
+while($true){$host.ui.rawui.backgroundcolor='red';ls;$host.ui.rawui.backgroundcolor='yellow';ls;$host.ui.rawui.backgroundcolor='green';ls;$host.ui.rawui.backgroundcolor='blue';ls;$host.ui.rawui.backgroundcolor='cyan';ls;$host.ui.rawui.backgroundcolor='magenta';ls} 
